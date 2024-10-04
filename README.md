@@ -16,7 +16,7 @@ Here are some screenshots showcasing the To-Do List app in action:
    ![Creating a Tier List](./Screenshots/2.png)
 
 3. **Task Marked as Completed**
-   ![Saved Tier List Example](./Screenshots/1.png)
+   ![Saved Tier List Example](./Screenshots/3.png)
 
 
 Follow these steps to set up the project locally.
