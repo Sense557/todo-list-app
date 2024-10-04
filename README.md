@@ -40,12 +40,13 @@ JavaScript (ES6): Functionality for adding, removing, and saving tasks
 localStorage: Data persistence across sessions
 
 ## 📁 Project Structure
-graphql
+```graphql
 Copy code
 ├── index.html     # The main HTML file
 ├── style.css      # Stylesheet for the To-Do List app
 ├── script.js      # JavaScript functionality for the app
 └── images/        # Folder for image assets (icons, screenshots)
+```
 
 ## 📖 How It Works
 1. **Adding Tasks**
@@ -77,5 +78,29 @@ Welcome to the **Drag and Drop Tier List App**! This application allows users to
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, etc.)
+
+
+
+
+### File Descriptions
+
+- **index.html**: Contains the structure of the web page and includes links to the CSS and JavaScript files.
+- **style.css**: Defines the styles for the layout, colors, fonts, and responsiveness of the To-Do List app.
+- **script.js**: Provides the functionality, such as adding, removing, and marking tasks as complete.
+- **images/**: Holds image assets like icons and screenshots used in the app.
+
+## Features
+
+- Add tasks to your to-do list.
+- Mark tasks as completed.
+- Remove tasks from the list.
+- Simple and user-friendly interface.
+
+## How to Use
+
+1. Open the `index.html` file in your browser.
+2. Use the input box to add tasks.
+3. Click the checkbox next to a task to mark it as complete.
+4. Use the delete button to remove a task from the list.
 
 
