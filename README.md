@@ -10,7 +10,7 @@ Persistent Data: Tasks are saved in localStorage, so your list is maintained eve
 Here are some screenshots showcasing the To-Do List app in action:
 ## 📷 🎨 Preview
 1. **Initial Screen** 
-   ![Main Interface](./Screenshots/3.png)
+   ![Main Interface](./Screenshots/1.png)
 
 2. **Task Added** 
    ![Creating a Tier List](./Screenshots/2.png)
