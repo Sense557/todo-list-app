@@ -38,7 +38,7 @@ cd todo-list-app
 open index.html
 ```
 
-#### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - **HTML5:** - Structure of the app
 - **CSS3:** - Styling and layout
 - **JavaScript (ES6):** - Functionality for adding, removing, and saving tasks
