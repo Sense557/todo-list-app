@@ -9,7 +9,7 @@ A sleek and minimal To-Do List application that helps you stay organized. Built 
 
 
 Here are some screenshots showcasing the To-Do List app in action:
-## 📷 🎨 Preview
+## 🎨 Preview
 1. **Initial Screen** 
    ![Main Interface](./Screenshots/1.png)
 
@@ -23,22 +23,26 @@ Here are some screenshots showcasing the To-Do List app in action:
 Follow these steps to set up the project locally.
 
 1. **Clone the Repository**
+```
 bash
 Copy code
 git clone https://github.com/yourusername/todo-list-app.git
-
+```
 2. **Open the Project**
 Navigate to the project folder and open the index.html file in your browser:
 
+```
 bash
 Copy code
 cd todo-list-app
 open index.html
-🛠️ Technologies Used
-HTML5: Structure of the app
-CSS3: Styling and layout
-JavaScript (ES6): Functionality for adding, removing, and saving tasks
-localStorage: Data persistence across sessions
+```
+
+#### 🛠️ Technologies Used
+- **HTML5:** - Structure of the app
+- **CSS3:** - Styling and layout
+- **JavaScript (ES6):** - Functionality for adding, removing, and saving tasks
+- **localStorage:** - Data persistence across sessions
 
 ## 📁 Project Structure
 ```graphql
